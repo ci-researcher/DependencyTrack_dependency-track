@@ -36,6 +36,7 @@ on:
       registry-0-psw:
         required: true
 
+  workflow_dispatch:
 permissions: { }
 
 jobs:
